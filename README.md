@@ -55,7 +55,7 @@ This app doesn't need a server. It needs a free OpenWeatherMap key.
 - How to build elements with JavaScript and add them to the page
 - How to make a frosted glass card with CSS
 
-VIEW APP HERE: https://weather-api-h1uc.onrender.com/
+VIEW APP HERE: https://weather-api-h1uc.onrender.com
 
 ## Author
 
