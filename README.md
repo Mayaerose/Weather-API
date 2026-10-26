@@ -25,7 +25,7 @@ This is a project I built to practice getting data from a weather API and showin
 - HTML
 - CSS
 - JavaScript
-- `async`/`await` and `try`/`catch`
+- `async`/`await`
 - [OpenWeatherMap API](https://openweathermap.org/api) (current weather)
 
 ## How to Use
